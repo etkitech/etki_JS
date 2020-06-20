@@ -10,10 +10,6 @@ We will study the open-source programs of University of Helsinki's FullStackOpen
 
 Main goal of this course is to provide a free & safe online learning possibility for the underrepresented and underprivileged people in technology field, and for the people who are looking into transitioning into technology area.
 
-Communications and invitation links will be sent to you via the e-mail address you have provided.
-
-We will organize Q&A sessions, and you can ask your questions later in our communication channels we will share with you. 
-
 We follow [Berlin Code of Conduct](https://berlincodeofconduct.org/) throughout the entire program.
 
 About us: We are [etki](https://www.etki.io), an online turkish tech network with a main base in Berlin, Germany. 
