@@ -1,15 +1,17 @@
 # etki_JS Remote Code Camp
 
-Together with [ThoughtWorks](https://www.thoughtworks.com) and [University of Helsinki](https://www.helsinki.fi/en), we have organized etki_JS Remote Code Camp program, an online workshop series, to study and learn modern web development. 
+etki_JS Remote Code Camp is an online program to study, learn and dive deep into modern web development, which is organized by etki Tech Network community together with [ThoughtWorks](https://www.thoughtworks.com) and [University of Helsinki](https://www.helsinki.fi/en).
 
-In the course of etki_JS we will run regular co-learning workshops for supporting your efforts on learning on the structured course material we have selected, where you can ask your questions on the material to experienced software engineers, or discuss, study with peers. We will provide you with a communication channel.
+As technology stack the students learn the most relevant and up-to-date technologies for modern web development, including Javascript, React, Node.JS, MongoDB, Express and GraphQL.
 
-etki_JS will be self-paced, 100% free of charges, and will run fully remote.
+In the etki_JS course we run regular co-learning workshops for supporting the students' solo-learning efforts on the structured course material we have selected, in which students can ask their questions on the material to experienced software engineers, or discuss, co-study with their peers.
 
-We will study the open-source programs of University of Helsinki's FullStackOpen, and material from FreeCodeCamp and Javascript.info. If you follow all the course material diligently for consequent months and finish the FullStackOpen program and deliver the projects in the course program, you will be presented a unique certificate from University of Helsinki. 
+etki_JS courses are self-paced, 100% free of charges, and will run fully remote.
 
-Main goal of this course is to provide a free & safe online learning possibility for the underrepresented and underprivileged people in technology field, and for the people who are looking into transitioning into technology area.
+Both intermediate developers who want to dive deep into web development and beginner students are well-served with our selection of learning material.
 
-We follow [Berlin Code of Conduct](https://berlincodeofconduct.org/) throughout the entire program.
+Our course is planned to be on-going. Duration of the learning program will depend on the individual student's knowledge level and their pace.
 
-About us: We are [etki](https://www.etki.io), an online turkish tech network with a main base in Berlin, Germany. 
+As course material we follow the open-source programs of University of Helsinki's FullStackOpen, and other high quality learning materials from FreeCodeCamp and Javascript.info. If students follow all the course material of ~100 hours diligently to finish the FullStackOpen program and deliver the course projects on top, they will be presented with an official completion certification from University of Helsinki.
+
+Our mentors are English or Turkish speakers, students who speak English or Turkish are welcome. Main goal of this course is to provide a free and safe online learning environment for the underrepresented or underprivileged people in technology, and for the people who are looking into transitioning into the technology area.
