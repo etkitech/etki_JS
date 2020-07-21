@@ -2,7 +2,7 @@
 
 ## Useful links
 
-* [course-map.md](./course-map.md)
+* [Course Map](./course-map.md)
 
 ## About
 
