@@ -2,6 +2,8 @@
 
 ## Useful links
 
+* [course-map.md](./course-map.md)
+
 ## About
 
 etki_JS Remote Code Camp is an online program to study, learn and dive deep into modern web development, which is organized by etki Tech Network community together with [ThoughtWorks](https://www.thoughtworks.com) and [University of Helsinki](https://www.helsinki.fi/en).
