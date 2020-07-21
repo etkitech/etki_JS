@@ -24,6 +24,7 @@ Course map is a simple guidance path for _etki_JS Remote Code Camp_, through whi
 * FullStackOpen
   - [FullStackOpen.com module 1]()
 
+***
 
 
 
