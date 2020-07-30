@@ -30,7 +30,7 @@ Course map is a simple guidance path for _etki_JS Remote Code Camp_, through whi
 
 ...
 
-11. [Module n](https://fullstackopen.com/en)
+n. [Module n](https://fullstackopen.com/en)
 
 
 ### _Projects_
