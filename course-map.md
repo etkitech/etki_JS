@@ -7,38 +7,49 @@ Course map is a simple guidance path for _etki_JS Remote Code Camp_, through whi
 ## Beginner
 
 ### _Free Code Camp - modules_
-1. [Basic Javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
-2. [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)  
-3. [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)  
+B1. [Basic Javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 
-### _Git_
-4. [Git module](tobedone)
+B2. [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)  
+
+B3. [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)  
 
 ### _Javascript.info - modules_
-5. [First steps](https://javascript.info/first-steps)
-6. [Object](https://javascript.info/object)
-7. [Array](https://javascript.info/array)
-8. [Array methods](https://javascript.info/array-methods)
-9. [Destructuring assignment](https://javascript.info/destructuring-assignment)
+B4. [First steps](https://javascript.info/first-steps)
+
+B5. [Object](https://javascript.info/object)
+
+B6. [Array](https://javascript.info/array)
+
+B7. [Array methods](https://javascript.info/array-methods)
+
+B8. [Destructuring assignment](https://javascript.info/destructuring-assignment)
+
+### _Git_
+B9. [Git module](tobedone)
+
+### _Hands on practice_
+B10. [Practice on training platform](tobedone)
+
+B11. [Project](tobedone)
 
 *** 
 
 ## Intermediate
 
 ### _FullStackOpen modules_ 
-10. [FullStackOpen.com module 1](https://fullstackopen.com/en)
+I1. [FullStackOpen.com module 1](https://fullstackopen.com/en)
 
 ...
 
-n. [Module n](https://fullstackopen.com/en)
+In. [Module n](https://fullstackopen.com/en)
 
 
 ### _Projects_
-x. [Project 1](https://tobedone)
+Ix. [Project 1](https://tobedone)
 
 ...
 
-n. [Project n](https://tobedone)
+In. [Project n](https://tobedone)
 
 ***
 
