@@ -21,3 +21,5 @@ Our course is planned to be on-going. Duration of the learning program will depe
 As course material we follow the open-source programs of University of Helsinki's FullStackOpen, and other high quality learning materials from FreeCodeCamp and Javascript.info. If students follow all the course material of ~100 hours diligently to finish the FullStackOpen program and deliver the course projects on top, they will be presented with an official completion certification from University of Helsinki.
 
 Our mentors are English or Turkish speakers, students who speak English or Turkish are welcome. Main goal of this course is to provide a free and safe online learning environment for the underrepresented or underprivileged people in technology, and for the people who are looking into transitioning into the technology area.
+
+As community we follow the [Berlin Code of Conduct](https://berlincodeofconduct.org/), which is based on the [pdx.rb Code of Conduct](https://pdxruby.org/CONDUCT).
