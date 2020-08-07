@@ -3,6 +3,7 @@
 ## Useful links
 
 * [Course Map](./course-map.md)
+* [Student](./student.md)
 
 ## About
 
