@@ -24,32 +24,42 @@ B7. [Array methods](https://javascript.info/array-methods)
 
 B8. [Destructuring assignment](https://javascript.info/destructuring-assignment)
 
+
+### _Before you start_
+
+BS. [What do you need to install/setup](https://fullstackopen.com/en/part0/general_info#before-you-start)
+
 ### _Git_
-B9. [Git module](tobedone)
 
-### _Hands on practice_
-B10. [Practice on training platform](tobedone)
+G1. [How to create a GitHub account](https://www.youtube.com/watch?v=ezxRcdJ8glM)
 
-B11. [Project](tobedone)
+G2.1 [Connecting to GitHub with SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
+G2.2 [Connecting to GitHub with SSH video](https://www.youtube.com/watch?v=nQDFBd5NFA8)
 *** 
 
 ## Intermediate
 
 ### _FullStackOpen modules_ 
-I1. [FullStackOpen.com module 1](https://fullstackopen.com/en)
+I0. [Fundamentals of Web apps](https://fullstackopen.com/en/part0)
 
-....
+I1. [Introduction to React](https://fullstackopen.com/en/part1)
 
-In. [Module n](https://fullstackopen.com/en)
+I2. [Communicating with server](https://fullstackopen.com/en/part2)
 
+I3. [Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)
 
-### _Projects_
-Ix. [Project 1](https://tobedone)
+I4. [Testing Express servers, user administration](https://fullstackopen.com/en/part4)
 
-...
+I5. [Testing React apps](https://fullstackopen.com/en/part5)
 
-In. [Project n](https://tobedone)
+I6. [State management with Redux](https://fullstackopen.com/en/part6)
+
+I7. [React router, custom hooks, styling app with CSS and webpack](https://fullstackopen.com/en/part7)
+
+I8. [GraphQL](https://fullstackopen.com/en/part8)
+
+I9. [Typescript](https://fullstackopen.com/en/part9)
 
 ***
 
