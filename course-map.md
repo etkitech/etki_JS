@@ -4,7 +4,7 @@ Course map is a simple guidance path for _etki_JS Remote Code Camp_, through whi
 
 *** 
 
-## Beginner
+## Beginner (_Level1_)
 
 ### _Free Code Camp - modules_
 B1. [Basic Javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
@@ -34,7 +34,7 @@ G2.1 [Connecting to GitHub with SSH](https://docs.github.com/en/github/authentic
 G2.2 [Connecting to GitHub with SSH video](https://www.youtube.com/watch?v=nQDFBd5NFA8)
 *** 
 
-## Intermediate
+## Intermediate (_Level2_)
 
 ### _FullStackOpen modules_ 
 I0. [Fundamentals of Web apps](https://fullstackopen.com/en/part0)
