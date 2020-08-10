@@ -1,4 +1,4 @@
-# Course Map _(in progress)_
+# Course Map
 
 Course map is a simple guidance path for _etki_JS Remote Code Camp_, through which students and mentors can follow the progress.
 
@@ -24,10 +24,6 @@ B7. [Array methods](https://javascript.info/array-methods)
 
 B8. [Destructuring assignment](https://javascript.info/destructuring-assignment)
 
-
-### _Before you start_
-
-BS. [What do you need to install/setup](https://fullstackopen.com/en/part0/general_info#before-you-start)
 
 ### _Git_
 
