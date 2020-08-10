@@ -11,3 +11,5 @@ student.md is the document outlining the processes and environment setup for stu
 #### Before you start the intermediate course in the [Course map](https://github.com/etkitech/etki_JS/blob/master/course-map.md)
 
 * [What do you need to install/setup](https://fullstackopen.com/en/part0/general_info#before-you-start)
+
+***
