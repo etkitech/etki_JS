@@ -4,23 +4,23 @@ student.md is the document outlining the processes and environment setup for stu
 
 #announcements : All announcements of etki_JS Team will be made here. Make sure to enable notifications.
 
-#etki_JS-team : Contact our team and mentors publicly for any topic you want which aren't covered in other channels
+#etki_JS-team : Contact our team and mentors publicly for any topic you want which aren't covered in other channels.
 
-#general: important pinned notes
+#general: Important pinned notes.
 
 #helpdesk-level1 : Technical coding questions about beginner program. Mentors will check this channel regularly and will try to support you. 
 
 #helpdesk-level2 : Technical coding questions about intermediate program. Mentors will check this channel regularly and will try to support you. 
 
-#introductions -> you can get to know each other and contact here
+#introductions : You can get to know each other and contact here.
 
-#level1 : All topics about beginners program, except help requests. For help requests see #helpdesk-level1 
+#level1 : All topics about beginners program, except help requests. For help requests see #helpdesk-level1.
 
-#level2 : All topics about intermediate program, except help requests. For help requests see #helpdesk-level2
+#level2 : All topics about intermediate program, except help requests. For help requests see #helpdesk-level2.
 
-#questions-and-feedback : Organizational questions and feedback
+#questions-and-feedback : Organizational questions and feedback.
 
-#random : Anything irrelevant but may be of interest and/or fun
+#random : Anything irrelevant but may be of interest and/or fun.
 
 ***
 
