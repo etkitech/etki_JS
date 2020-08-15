@@ -5,7 +5,7 @@
 * [Course Map](./course-map.md)
 * [Timeline](./timeline.md)
 * [Student](./student.md)
-* [Students of cohort 2020](cohort2020.md)
+* [Cohort 2020](./cohort2020.md)
 
 
 ## About
