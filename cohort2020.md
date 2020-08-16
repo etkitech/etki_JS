@@ -7,6 +7,7 @@
 | Slack Nickname | Repository URL |
 | ------ | ----------- |
 |*add Slack name*|*add URL here* |
+| @BrunoElo  |https://github.com/BrunoElo/FullStackOpen2020 |
 | @Your Name  |https://www.github.com/YourGithubHandle/YourRepo |
 | @Hasan  | https://www.github.com/oz1127/etki_JS_works |
 | @Your Name  |https://www.github.com/YourGithubHandle/YourRepo |
