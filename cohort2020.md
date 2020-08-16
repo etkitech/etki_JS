@@ -8,6 +8,7 @@
 | ------ | ----------- |
 |*add Slack name*|*add URL here* |
 | @Your Name  |https://www.github.com/YourGithubHandle/YourRepo |
+| @AmiOnodera | https://github.com/ami-onodera/full-stack-open-2020 |
 | @Hasan  | https://www.github.com/oz1127/etki_JS_works |
 | @Your Name  |https://www.github.com/YourGithubHandle/YourRepo |
 
