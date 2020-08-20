@@ -11,6 +11,7 @@ _Alphabetically sorted by Slack nickname_
 | @BrunoElo  |https://github.com/BrunoElo/FullStackOpen2020 |
 | @Hasan  | https://www.github.com/oz1127/etki_JS_works |
 | @Jeremy Huiskamp | https://github.com/jeremyhuiskamp/fullstackopen.com/ |
+| @Leli (she/her) | https://github.com/lelilia/fullstackopen |
 | @Michael / miku86 | https://github.com/miku86/react-native-rate-repos   |
 | @Your Name  |https://www.github.com/YourGithubHandle/YourRepo |
 
