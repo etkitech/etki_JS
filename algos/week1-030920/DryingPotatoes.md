@@ -23,4 +23,4 @@ Write function `potatoes` with
 ### Example:
 `potatoes(99, 100, 98)` --> 50
 
-### Source:[codewars](https://www.codewars.com/kata/58ce8725c835848ad6000007)  
+### Source: [codewars](https://www.codewars.com/kata/58ce8725c835848ad6000007)  
