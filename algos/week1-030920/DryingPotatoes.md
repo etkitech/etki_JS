@@ -12,15 +12,15 @@ He finds 50 kilograms and he thinks he made a mistake: "So much weight lost for 
 
 Can you help him?
 
-Write function potatoes with
+Write function `potatoes` with
 
 * int parameter p0 - initial percent of water
 * int parameter w0 - initial weight 
 * int parameter p1 - final percent of water 
 
-potatoes should return the final weight coming out of the oven w1 truncated as an int.
+`potatoes` should return the final weight coming out of the oven w1 truncated as an int.
 
-Example:
-potatoes(99, 100, 98) --> 50
+###Example:
+`potatoes(99, 100, 98)` --> 50
 
-Source: https://www.codewars.com/kata/58ce8725c835848ad6000007
+###Source:[codewars](https://www.codewars.com/kata/58ce8725c835848ad6000007)  
