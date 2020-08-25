@@ -1,10 +1,15 @@
-#TO DO
+## TO DO 
 
-#clone the repo
-#git pull for the changes
-#check the weekly algo that will be added to the repo every Monday
-#write unit tests (preferably with jest) in a separate file
-#write your function(s) to solve the algo
-#try to make your code cleaner
-#push your solution and make a pull request
-#check other solutions 
+### one time
+
+* fork and clone the repo 
+
+### weekly
+
+* fetch and pull the changes in remote to your local
+* check the latest algo that will be added to the repo last Monday
+* write unit tests (preferably with jest) in a separate file
+* write your function(s) to solve the algo
+* try to make your code cleaner
+* push your solution and make a pull request
+* check other solutions 
