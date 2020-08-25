@@ -20,7 +20,7 @@ Write function `potatoes` with
 
 `potatoes` should return the final weight coming out of the oven w1 truncated as an int.
 
-###Example:
+### Example:
 `potatoes(99, 100, 98)` --> 50
 
-###Source:[codewars](https://www.codewars.com/kata/58ce8725c835848ad6000007)  
+### Source:[codewars](https://www.codewars.com/kata/58ce8725c835848ad6000007)  
