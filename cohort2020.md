@@ -14,6 +14,6 @@ _Alphabetically sorted by Slack nickname_
 | @Jeremy Huiskamp | https://github.com/jeremyhuiskamp/fullstackopen.com/ |
 | @Leli (she/her) | https://github.com/lelilia/fullstackopen |
 | @Michael / miku86 | https://github.com/miku86/react-native-rate-repos   |
-| @Your Name  |https://www.github.com/YourGithubHandle/YourRepo |
+| @Robert Orazu  |https://www.github.com/Robertito1/FullStackOpen |
 
 ---
