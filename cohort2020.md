@@ -48,7 +48,6 @@ _Alphabetically sorted by Slack nickname_
 | @Miriam G. | https://www.github.com/YourGithubHandle/YourRepo |
 | @Nath L. | https://www.github.com/YourGithubHandle/YourRepo |
 | @Okan | https://www.github.com/YourGithubHandle/YourRepo |
-| @Zainab | https://www.github.com/YourGithubHandle/YourRepo |
 | @Oyedola  | https://www.github.com/YourGithubHandle/YourRepo |
 | @Pelin | https://www.github.com/YourGithubHandle/YourRepo |
 | @Rieke | https://www.github.com/YourGithubHandle/YourRepo |
@@ -64,6 +63,7 @@ _Alphabetically sorted by Slack nickname_
 | @Vivyanne | https://www.github.com/YourGithubHandle/YourRepo |
 | @Yagmur | https://www.github.com/YourGithubHandle/YourRepo |
 | @Yasemin | https://www.github.com/YourGithubHandle/YourRepo |
+| @Zainab | https://github.com/oladipupozainab |
 | @Your Name | https://www.github.com/YourGithubHandle/YourRepo |
 
 ---
