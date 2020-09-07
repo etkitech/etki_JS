@@ -52,7 +52,7 @@ _Alphabetically sorted by Slack nickname_
 | @Oyedola  | https://www.github.com/YourGithubHandle/YourRepo |
 | @Pelin | https://www.github.com/YourGithubHandle/YourRepo |
 | @Rieke | https://www.github.com/YourGithubHandle/YourRepo |
-| @Robert | https://www.github.com/YourGithubHandle/YourRepo |
+| @Robert | https://www.github.com/Robertito1/FullStackOpen |
 | @Rohit | https://www.github.com/YourGithubHandle/YourRepo |
 | @Ruth | https://www.github.com/YourGithubHandle/YourRepo |
 | @Schnitter | https://www.github.com/YourGithubHandle/YourRepo |
