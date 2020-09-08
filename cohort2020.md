@@ -42,7 +42,7 @@ _Alphabetically sorted by Slack nickname_
 | @Leli | https://github.com/lelilia/fullstackopen |
 | @Maria M. | https://www.github.com/YourGithubHandle/YourRepo |
 | @Maria Z. | https://www.github.com/YourGithubHandle/YourRepo |
-| @Merve G. | https://www.github.com/YourGithubHandle/YourRepo |
+| @Merve G. | https://github.com/GulenayMer/etki_JS |
 | @miku86 | https://github.com/miku86/react-native-rate-repos   |
 | @mino  | https://www.github.com/YourGithubHandle/YourRepo |
 | @Miriam G. | https://www.github.com/YourGithubHandle/YourRepo |
