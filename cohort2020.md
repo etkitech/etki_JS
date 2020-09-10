@@ -45,7 +45,7 @@ _Alphabetically sorted by Slack nickname_
 | @Merve G. | https://github.com/GulenayMer/etki_JS |
 | @miku86 | https://github.com/miku86/react-native-rate-repos   |
 | @mino  | https://github.com/miriamino |
-| @Miriam G. | https://github.com/miriamela |
+| @Miriam G. | https://github.com/miriamela/fullstackopen-etki-2020 |
 | @Nath L. | https://www.github.com/YourGithubHandle/YourRepo |
 | @Okan | https://www.github.com/YourGithubHandle/YourRepo |
 | @Oyedola  | https://github.com/oyedolacode |
