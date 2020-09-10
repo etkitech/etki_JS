@@ -3,7 +3,7 @@
 ### "FirstName" or "SlackNickname" : (@GithubHandle)[GithubProfileURL]
 
 * Ersin : [@ersinerdal](https://github.com/ersinerdal)
-* Miriam Grossi : (@miriamela)[https://github.com/miriamela/fullstackopen-etki-2020]
+* Miriam Grossi : [@miriamela](https://github.com/miriamela/fullstackopen-etki-2020)
 * ...
 * ...
 
