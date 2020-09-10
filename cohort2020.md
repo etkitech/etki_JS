@@ -21,7 +21,7 @@ _Alphabetically sorted by Slack nickname_
 | @Emin | https://github.com/emindeniz99 |
 | @Emre | https://www.github.com/YourGithubHandle/YourRepo |
 | @Enny | https://www.github.com/YourGithubHandle/YourRepo |
-| @Eren | https://www.github.com/YourGithubHandle/YourRepo |
+| @Eren | https://github.com/erenguler1994/fullstackOpen2020 |
 | @fabio | https://www.github.com/YourGithubHandle/YourRepo |
 | @Fernanda | https://www.github.com/YourGithubHandle/YourRepo |
 | @Gblend | https://github.com/gblend/fullstackopen |
