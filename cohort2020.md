@@ -19,7 +19,7 @@ _Alphabetically sorted by Slack nickname_
 | @Ecem | https://www.github.com/YourGithubHandle/YourRepo |
 | @Elo Agbawe | https://github.com/Eloagbawe |
 | @Emin | https://github.com/emindeniz99 |
-| @Emre | https://www.github.com/YourGithubHandle/YourRepo |
+| @Emre | https://github.com/Emreburak1/fullstackopen |
 | @Enny | https://www.github.com/YourGithubHandle/YourRepo |
 | @Eren | https://www.github.com/YourGithubHandle/YourRepo |
 | @fabio | https://www.github.com/YourGithubHandle/YourRepo |
