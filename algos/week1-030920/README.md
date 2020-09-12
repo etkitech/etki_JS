@@ -1,3 +1,5 @@
+DRYING POTATOES
+
 All we eat is water and dry matter.
 
 John bought potatoes: their weight is 100 kilograms. Potatoes contain water and dry matter.
