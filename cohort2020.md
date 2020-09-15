@@ -17,7 +17,7 @@ _Alphabetically sorted by Slack nickname_
 | @Dee Dan | https://www.github.com/YourGithubHandle/YourRepo |
 | @delz | https://github.com/areel007 |
 | @Ecem | https://www.github.com/YourGithubHandle/YourRepo |
-| @Elo Agbawe | https://github.com/Eloagbawe |
+| @Elo Agbawe | https://github.com/Eloagbawe/fullstackopen |
 | @Emin | https://github.com/emindeniz99 |
 | @Emre | https://github.com/Emreburak1/fullstackopen |
 | @Enny | https://www.github.com/YourGithubHandle/YourRepo |
