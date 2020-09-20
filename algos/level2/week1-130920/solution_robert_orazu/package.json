@@ -1,0 +1,17 @@
+{
+  "name": "solution_robert_orazu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "potatoes.test.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "robert",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
