@@ -4,6 +4,7 @@
 ### one time
 
 * fork and clone the repo 
+* install jest for testing
 
 ### weekly
 
@@ -19,3 +20,10 @@
 7. check other accepted solutions
 8. discuss the solutions on slack (if necessary)
 9. feel welcome to contact the team for questions and feedback ;)
+
+## HOW TO
+
+### use jest 
+1. install Jest: $ npm install -g jest
+2. run a test: $ jest testFileFolder/testfileName.js
+3. stop it from running: Ctrl + c
