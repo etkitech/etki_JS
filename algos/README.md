@@ -28,10 +28,11 @@
 2. go to the forked repo in your repositories
 3. click 'clone or download' button
 4. copy the link
-5. go to your terminal and write this command: $ git clone <link>
+5. go to your terminal and write this command: `git clone <link>` 
+6. go to the directory:  `cd etki_JS/algos`
 
 ### use jest 
-1. install Jest: $ npm install -g jest
-2. run a test: $ jest testFileFolder/testfileName.js
-3. run all test files $ jest
+1. install Jest: `npm install -g jest` (if windows: `sudo npm install -g jest`)
+2. run a test: `jest levelFolderName/weekFolderName/yourTestfileName.js`
+3. run all test files `jest`
 4. stop test running: Ctrl + c
