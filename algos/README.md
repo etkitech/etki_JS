@@ -3,8 +3,8 @@
 
 ### one time
 
-* fork and clone the repo 
-* install jest for testing
+* fork and clone the repo
+* setup environment (npm and jest)
 
 ### weekly
 
@@ -22,6 +22,13 @@
 9. feel welcome to contact the team for questions and feedback ;)
 
 ## HOW TO
+
+### fork and clone the repo
+1. click 'fork' on the upper left of the github page
+2. go to the forked repo in your repositories
+3. click 'clone or download' button
+4. copy the link
+5. go to your terminal and write this command: $ git clone <link>
 
 ### use jest 
 1. install Jest: $ npm install -g jest
