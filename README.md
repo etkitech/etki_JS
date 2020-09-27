@@ -3,7 +3,6 @@
 ## Useful links
 
 * [Course Map](./course-map.md)
-* [Timeline](./timeline.md)
 * [Student](./student.md)
 * [Cohort 2020](./cohort2020.md)
 
