@@ -36,3 +36,9 @@
 2. run a test: `jest levelFolderName/weekFolderName/yourTestfileName.js`
 3. run all test files `jest`
 4. stop test running: Ctrl + c
+
+### fetch and pull updates
+1. `git remote add upstream https://github.com/etkitech/etki_JS.git`
+2. `git fetch upstream`
+3. `git checkout master`
+4. `git merge upstream/master`
