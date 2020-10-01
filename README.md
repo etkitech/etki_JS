@@ -11,7 +11,7 @@
 
 etki_JS Remote Code Camp is an online program to study, learn and dive deep into modern web development, which is organized by etki Tech Network community together with [ThoughtWorks](https://www.thoughtworks.com) and [University of Helsinki](https://www.helsinki.fi/en).
 
-As technology stack the students learn the most relevant and up-to-date technologies for modern web development, including Javascript, React, Node.JS, MongoDB, Express and GraphQL.
+As technology stack the students learn the more relevant and up-to-date technologies for modern web development, including Javascript, React, Node.JS, MongoDB, Express and GraphQL.
 
 In the etki_JS course we run regular co-learning workshops for supporting the students' solo-learning efforts on the structured course material we have selected, in which students can ask their questions on the material to experienced software engineers, or discuss, co-study with their peers.
 
