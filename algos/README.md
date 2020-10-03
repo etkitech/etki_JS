@@ -62,6 +62,6 @@
 10. If you are satisfied with your result, add your changes to the stagign area: `git add .`
 11. Commit your changes with a short message telling what has been mainly done: `git commit -m "add blabla"` 
 12. Push your changes to your forked remote repo: `git push`
-13. Go to your forked Github repo. Click on 'pull requests' and make it.
+13. Go to your forked Github repo. Click on 'pull requests' and make it manually.
 
 
