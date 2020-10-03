@@ -49,6 +49,19 @@
 2. pull all changes and make your local same as etki remote: `git pull upstream master`
 
 ### Write your code 
-1. Go to the relevant week folder
-2. Create a new js file ``
-3. Create a new test js file ``
+1. Go to the relevant week folder: (Ex: Let's say you are in algos folder, you are level1 student and you want to solve algo of week 2, then type: `cd level1/week2`)
+2. Create a new js file: for Mac/Linux: `touch fileName.js`, for Windows: `echo fileName.js`
+3. Create a new test js file: for Mac/Linux: `touch fileName.test.js`, for Windows: `echo fileName.test.js`
+* you can create new files also manually of course
+4. on the main js file, write a relevant function name with relevant parameters. You can use the names in the example in the relevant md file. Leave you function empty for now. Export the function. 
+5. on the test file, import your function from the other file and write your tests including several different cases. 
+6. when your tests are ready, turn back to your main.js file and complete your function. 
+7. run your tests explained above in use jest part
+8. If some tests fail, check the failed tests and try to understand where the problem is. Try until all tests pass. Then refactor your code. 
+9. If all tests pass, you are ready to refactor your code. 
+10. If you are satisfied with your result, add your changes to the stagign area: `git add .`
+11. Commit your changes with a short message telling what has been mainly done: `git commit -m "add blabla"` 
+12. Push your changes to your forked remote repo: `git push`
+13. Go to your forked Github repo. Click on 'pull requests' and make it.
+
+
