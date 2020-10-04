@@ -14,8 +14,7 @@ Calculate the final score of the game using original Nintendo scoring system
 
 ### Input
 Array with cleaned lines.
-
-### Example: [4, 2, 2, 3, 3, 4, 2]
+Example: [4, 2, 2, 3, 3, 4, 2]
 Input will always be valid: array of random length (from 0 to 5000) with numbers from 0 to 4.
 
 ### Ouput
@@ -34,4 +33,4 @@ Calculated final score.
 - Step 6: +2400. Score: 2300+2400=4700;
 - Step 7: +200. Total score: 4700+200=4900 points.
 
-Source: https://www.codewars.com/kata/5da9af1142d7910001815d32
+## Source: https://www.codewars.com/kata/5da9af1142d7910001815d32
