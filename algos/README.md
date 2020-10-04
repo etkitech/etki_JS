@@ -41,11 +41,11 @@
 
 ### update your local repo
 1. make sure you are on the correct branch. If not, type: `git checkout master`
-## checking and integrating the changes in a controlled manner
+#### checking and integrating the changes in a controlled manner
 2. fetch changes in the original etki repo: `git fetch upstream`
 3. go to your master branch: `git checkout master`
 4. merge changes in the upstream branch (etki repo) to your local master branch: `git merge upstream/master`
-## OR directly getting all the updates in the etki remote
+#### OR directly getting all the updates in the etki remote
 2. pull all changes and make your local same as etki remote: `git pull upstream master`
 
 ### Write your code 

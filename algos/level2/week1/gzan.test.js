@@ -1,6 +1,6 @@
 const potatoes = require('./gzan.index.js');
 
-test('totalWeight function exists', () => {
+test('potatoes function exists', () => {
     expect(typeof potatoes).toEqual('function');
 });
 

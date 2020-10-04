@@ -1,17 +1,17 @@
 function busTimer(time) {
-  const hour = parseInt(time[0] + time[1])
-  console.log("hour: " + hour)
-  const minutes = parseInt(time[3] + time[4])
-  console.log("minutes: " + minutes)
-  const arr = [15, 30, 45, 60]
-  let hourDiff = 0;
-  let minuteDiff = 15 - minutes % 15;
-  console.log("minuteDiff: " + minuteDiff)
-  if (minuteDiff == 0) minuteDiff += 15
-  if (hour >= 0 && hour < 6) {
-    hourDiff = 6 - hour
-    minuteDiff = 60 - minutes
+  let [hours, minutes] = time.split(':').map(Number)
+  let minuteDiff = 15 - minutes % 15
+  if (hours < 6) {
+    if (hours === 5 && minutes > 55) {
+      return minuteDiff + 15 - 5
+    }
+    return (6 - hours) * 60 - minutes - 5
   }
-  console.log("hourDiff: " + hourDiff)
-  return hourDiff * 60 + minuteDiff - 5
+  if (hours === 23 && minutes > 55) {
+    return 6 * 60 + minuteDiff - 5
+  }
+  if (minuteDiff < 5) minuteDiff += 15
+  return minuteDiff - 5
 }
+
+module.exports = busTimer 
