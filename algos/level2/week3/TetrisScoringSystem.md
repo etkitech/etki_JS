@@ -33,4 +33,4 @@ Calculated final score.
 - Step 6: +2400. Score: 2300+2400=4700;
 - Step 7: +200. Total score: 4700+200=4900 points.
 
-## Source: https://www.codewars.com/kata/5da9af1142d7910001815d32
+#### Source: https://www.codewars.com/kata/5da9af1142d7910001815d32
