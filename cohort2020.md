@@ -17,11 +17,11 @@ _Alphabetically sorted by Slack nickname_
 | @Dee Dan | https://www.github.com/YourGithubHandle/YourRepo |
 | @delz | https://github.com/areel007 |
 | @Ecem | https://www.github.com/YourGithubHandle/YourRepo |
-| @Elo Agbawe | https://github.com/Eloagbawe |
+| @Elo Agbawe | https://github.com/Eloagbawe/fullstackopen |
 | @Emin | https://github.com/emindeniz99 |
-| @Emre | https://www.github.com/YourGithubHandle/YourRepo |
+| @Emre | https://github.com/Emreburak1/fullstackopen |
 | @Enny | https://www.github.com/YourGithubHandle/YourRepo |
-| @Eren | https://www.github.com/YourGithubHandle/YourRepo |
+| @Eren | https://github.com/erenguler1994/fullstackOpen2020 |
 | @fabio | https://www.github.com/YourGithubHandle/YourRepo |
 | @Fernanda | https://www.github.com/YourGithubHandle/YourRepo |
 | @Gblend | https://github.com/gblend/fullstackopen |
@@ -34,7 +34,7 @@ _Alphabetically sorted by Slack nickname_
 | @jayumaks | https://github.com/jayumaks |
 | @Jennifer R. | https://github.com/jrussell416/fullstackopen |
 | @Jeremy H. | https://github.com/jeremyhuiskamp/fullstackopen.com/ |
-| @Kateryna | https://www.github.com/YourGithubHandle/YourRepo |
+| @Kateryna | https://github.com/katamatata |
 | @Kim | https://www.github.com/YourGithubHandle/YourRepo |
 | @Kirsi | https://github.com/Tsaikkari |
 | @Laura | https://github.com/lslada |
