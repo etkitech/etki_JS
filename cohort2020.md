@@ -34,7 +34,7 @@ _Alphabetically sorted by Slack nickname_
 | @jayumaks | https://github.com/jayumaks |
 | @Jennifer R. | https://github.com/jrussell416/fullstackopen |
 | @Jeremy H. | https://github.com/jeremyhuiskamp/fullstackopen.com/ |
-| @Kateryna | https://github.com/katamatata |
+| @Kateryna | https://github.com/katamatata/fullstackopen |
 | @Kim | https://www.github.com/YourGithubHandle/YourRepo |
 | @Kirsi | https://github.com/Tsaikkari |
 | @Laura | https://github.com/lslada |
