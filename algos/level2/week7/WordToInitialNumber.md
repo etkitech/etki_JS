@@ -1,9 +1,9 @@
 ### WORD TO INITIAL NUMBER
 
-####Intro:
+#### Intro:
 I was doing a coding challenge. It was one of those multi-step challenges. I don't know if my approach was good or bad, but in one of these steps I was writing a function to convert word to numbers. I did it.. eventually, but... I didn't like how it was written. So I thought why not create kata and check how other people do it :) So:
 
-####Task:
+#### Task:
 Your task is to write the word to number converter. Digits in the number should match letters in the word. Plus generated number should be the smallest possible number you can get.
 
 - Words will contain of maximum 10 distinct letters, but word can be any length, even longer than 10 characters long.
