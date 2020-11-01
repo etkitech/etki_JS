@@ -1,4 +1,4 @@
-### Valid Spaacing
+### Valid Spacing
 
 Your task is to write a function called valid_spacing() or validSpacing() which checks if a string has valid spacing. The function should return either True or False.
 
