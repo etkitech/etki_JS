@@ -1,8 +1,5 @@
 ### WORD TO INITIAL NUMBER
 
-#### Intro:
-I was doing a coding challenge. It was one of those multi-step challenges. I don't know if my approach was good or bad, but in one of these steps I was writing a function to convert word to numbers. I did it.. eventually, but... I didn't like how it was written. So I thought why not create kata and check how other people do it :) So:
-
 #### Task:
 Your task is to write the word to number converter. Digits in the number should match letters in the word. Plus generated number should be the smallest possible number you can get.
 
@@ -19,6 +16,9 @@ Examples:
 "ABA" -> 353 - WRONG ( number is OK, but it's not the smallest number )
 
 "ABA" -> 333 - WRONG ( different letters map to same digits )
+
+"ABA" -> 357 - WRONG ( same letters map to different digits )
+
 
 `````
 
