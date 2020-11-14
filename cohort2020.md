@@ -52,7 +52,7 @@ _Alphabetically sorted by Slack nickname_
 | @Pelin | https://www.github.com/YourGithubHandle/YourRepo |
 | @Rieke | https://www.github.com/YourGithubHandle/YourRepo |
 | @Robert | https://www.github.com/Robertito1/FullStackOpen |
-| @Rohit | https://github.com/diru1100 |
+| @Rohit | https://github.com/diru1100/fullstackopen |
 | @Ruth | https://github.com/Ruth-star |
 | @Schnitter | https://github.com/Stein-Hakase |
 | @Timothy | https://github.com/timothymayor |
