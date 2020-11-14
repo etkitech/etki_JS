@@ -17,7 +17,4 @@ function isLetter(char) {
   return (/[a-zA-Z]/).test(char)
 }
 
-console.log(uglifyWord("aaa")) // AaA
-console.log(uglifyWord("AAA")) //AaA
-console.log(uglifyWord("BbB"))  //BbB
 module.exports = { uglifyWord, isLetter }
