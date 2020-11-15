@@ -1,10 +1,16 @@
-function sortArray(array) {
+/// SHORT, ELEGANT WAY WITH ES&
+const sortArray = (array) => {
+  const oddNums = array.filter((num) => num % 2).sort((a, b) => a - b);
+  return array.map((num) => num % 2 ? oddNums.shift() : num);
+};
+
+//LONG BUT EASIER TO UNDERSTAND
+function sortArrayLong(array) {
   if (array === []) return array
   let oddNums = []
   let sorted = []
 
-  //add nums in a seperate array in a sorted manner
-  //this way will slowen the function because we go over the arr each time
+  //add nums in a seperate array in an ascending order
   for (let num of array) {
     if (isOdd(num)) {
       addNumberSorted(num, oddNums)
@@ -26,9 +32,11 @@ function sortArray(array) {
   }
   return sorted
 }
+
 // a function that returns true if a num is odd
 const isOdd = (n) => n % 2 !== 0;
-//function that add nums in an arr in the correct order
+
+//a function that add nums in an arr considering the ascending order
 function addNumberSorted(n, arr) {
   let i = 0;
   const length = arr.length;
@@ -44,14 +52,13 @@ function addNumberSorted(n, arr) {
       }
     }
   }
+  return arr;
 
 }
 
 
-/// SHORT WAY
-const sortArray = (array) => {
-  const oddNumS = array.filter((num) => num % 2).sort((a, b) => a - b);
-  return array.map((num) => num % 2 ? oddNums.shift() : num);
-};
 
 
+module.exports = {
+  sortArray, sortArrayLong, isOdd, addNumberSorted
+}
