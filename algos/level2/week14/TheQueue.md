@@ -1,9 +1,9 @@
 ### THE QUEUE 
 
 #### About the queue: 
-a data structure based on FIFO Principle (**F**irst **I**n **F**irst **O**ut)
-**enqueuing:** adding a new record to the beginning of the Queue (first index)
-**dequeuing:** removing the oldest record from the Queue (last index)
+- a data structure based on FIFO Principle (**F**irst **I**n **F**irst **O**ut)
+- **enqueuing:** adding a new record to the beginning of the Queue (first index)
+- **dequeuing:** removing the oldest record from the Queue (last index)
 
 #### Instructions: 
 
