@@ -7,7 +7,7 @@
 
 #### Instructions: 
 
-1. Implement a 'peek' method in the below Queue class. Peek should return the last element (the next one to be returned) from the queue **without** removing it.
+1. Implement a 'peek' method in the Queue class below. Peek should return the last element (the next one to be returned) from the queue **without** removing it.
 
 2. Implement the 'weave' function. Weave receives two queues as arguments and combines the contents of each into a new, third queue. The third queue should contain the **alternating** content of the two queues The function should handle queues of **different lengths** without inserting 'undefined' into the new one. **Do not** access the array inside of any queue, only use the 'add', 'remove', and 'peek' functions. 
 
