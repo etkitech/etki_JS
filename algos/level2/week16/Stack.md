@@ -38,7 +38,6 @@ class Stack {
 
   push(record) {
     
-
   }
 
   pop() {
