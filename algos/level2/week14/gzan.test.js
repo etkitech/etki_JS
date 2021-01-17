@@ -29,3 +29,5 @@ test('Order of elements is maintained', () => {
   expect(q.remove()).toEqual(3);
   expect(q.remove()).toEqual(undefined);
 });
+
+//Source: The Coding Interview Bootcamp: Algorithms + Data Structures by Stephen Grider at Udemy
