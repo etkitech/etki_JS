@@ -2,7 +2,7 @@
 
 #### About the stack: 
 - a data structure based on FILO Principle (**F**irst **I**n **L**ast **O**ut)
-- **pushing:** adding a new record to the the Stack (first index)
+- **pushing:** adding a new record to the Stack 
 - **popping:** removing the top record in the Stack(last added)
 
 #### Instructions: 
