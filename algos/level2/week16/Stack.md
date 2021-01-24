@@ -2,8 +2,8 @@
 
 #### About the stack: 
 - a data structure based on FILO Principle (**F**irst **I**n **L**ast **O**ut)
-- **pushing:** adding a new record to the beginning of the Queue (first index)
-- **popping:** removing the oldest record from the Queue (last index)
+- **pushing:** adding a new record to the the Stack (first index)
+- **popping:** removing the top record in the Stack(last added)
 
 #### Instructions: 
 
@@ -13,7 +13,7 @@ Create a stack data structure (class Stack)
 - Push method should add a record to the stack
 - Pop method should remove the "top" record in the stack (top record = the last added record)
 - Peek method should return the "top" record without popping it
-- Adding to the queue should store an element until it is removed
+- Adding an element to the stack should store it until it is removed
 
 #### Example 
 
