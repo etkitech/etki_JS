@@ -1,20 +1,22 @@
 ### LINKED LISTS 
 
 #### About the linked lists: 
-- a linked list is an ordered collection of data. The collection contains a number of different nodes. 
-Each node contains some amount of data along with a reference to the next node. The order is always maintained unless we change it.
+- a linked list is an ordered collection of data. 
+- The collection contains a number of different nodes. 
+- Each node contains some amount of data along with a reference to the next node. 
+- The order is always maintained unless we change it.
 
 
 #### Instructions: 
 
-Implement classes Node and Linked Lists
+Implement classes Node and Linked List
 
 1. **Create a class instance to represent a node.**  The node should have two properties, 'data' and 'next'.  Accept both of these as arguments to the 'Node' constructor, then assign them to the instance as properties 'data' and 'next'. If 'next' is not provided to the constructor, then default its value to be 'null'.
 
 2.  **Create a class to represent a linked list.**  When created, a linked list should have *no* head node associated with it. The LinkedList instance will have one property, 'head', which is a reference to the first node of the linked list.  By default 'head' should be 'null'.
 
-3. add following methods to the linked list: insertFirst, insertLast, insertAt, getFirst, getLast, getAt, removeFirst, removeLast, removeAt, size, clear.
--. **insertFirst** creates a new node from argument 'data' and assigns the resultign node to the 'head' property. Make sure to handle the case in which the linked list already has a node assigned to the 'head' property.
+3. add following methods to the linked list: 
+- **insertFirst** creates a new node from argument 'data' and assigns the resultign node to the 'head' property. Make sure to handle the case in which the linked list already has a node assigned to the 'head' property.
 - **insertLast** inserts a new node with provided data at the end of the chain
 - **insertAt** inserts a new node at provided index
 - **getFirst** returns the first node of the linked list
@@ -26,7 +28,7 @@ Implement classes Node and Linked Lists
 - **size** returns the number of nodes in the linked list.
 - **clear** empties the linked list of any nodes.
 
-#### Example 
+#### Examples 
 
 ````
 const n = new Node('There');
