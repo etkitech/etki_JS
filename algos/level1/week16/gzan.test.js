@@ -12,3 +12,5 @@ test('reverseInt reverses n integer', () => {
   expect(reverseInt(500)).toEqual(5);
   expect(reverseInt(-940000)).toEqual(-49);
 });
+
+//Source of the above solutions : The Coding Interview Bootcamp: Algorithms + Data Structures by Stephen Grider at Udemy

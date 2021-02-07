@@ -15,3 +15,5 @@ test('palindrome returns true if a string is a palindrome', () => {
   expect(palindrome('pennep')).toBeTruthy();
 });
 
+
+//Source of the above solutions : The Coding Interview Bootcamp: Algorithms + Data Structures by Stephen Grider at Udemy
