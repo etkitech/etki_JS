@@ -35,7 +35,7 @@ class List {
        }
        current.next = node
       }
-      return data;
+      return node;
     }
 
       insertAt(data, index){
@@ -52,19 +52,22 @@ class List {
              continue;
             }else{
              current.next = node
-             return data
+             return node
             }      
         } 
         previous.next = node
         node.next = current
-        return data
+        // return {
+        //   data: node.data,
+        //   next: node.next.data
+        // }
     }
 
     getFirst(){
        if(!this.head){
          return null
        }
-     return this.head.data
+     return this.head
     }
 
     getLast(){
@@ -72,30 +75,35 @@ class List {
       while(current.next){
         current = current.next
         }
-      return current.data
+      return current
     }
 
     getAt(index){
+      if(this.size() - 1 < index){
+        return null
+      }
         let current = this.head;
         let previous
      for(let i = 0; i <= index; i++){
          previous = current
          current = current.next ? current.next : current
         }
-      return previous.data
+      return previous
     }
 
     removeFirst(){
         if(!this.head){
             return null
           }
-        let removedNode = this.head.data
        this.head = this.head.next
-       return removedNode
     }
 
 
   removeLast(){
+    if(this.size() === 1 || this.size() === 0){
+      this.head = null
+      return 
+    }
         let current = this.head;
         let previous;
         while(current.next){
@@ -103,7 +111,7 @@ class List {
         current = current.next
         }
         previous.next = null
-      return current.data
+      return current
     }
 
     removeAt(index){
@@ -113,13 +121,18 @@ class List {
       if(index === 0){
        return this.removeFirst()
       }
+      if(this.size() - 1 < index){
+        return null
+      }
       while(round !== index){
         previous = current;
         current = current.next ? current.next : null;
         round++
         }
        previous.next = current.next ? current.next : null
-      return current.data
+      // return{ data: current.data,
+      //         next: current.next ? current.next.data : null
+      // }
   }
 
     size(){

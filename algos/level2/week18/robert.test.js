@@ -1,4 +1,4 @@
-const { Node, List } = require('./robert.index')
+const { Node, List} = require('./robert.index')
 
     describe('Test that classes are imported/exported correctly',()=>{
         test('Node and List classes should be defined', () => {
@@ -34,7 +34,7 @@ const { Node, List } = require('./robert.index')
         list2.insertFirst(4)
         list2.insertLast('linked lists are cool')
         expect(list2.head.data).toBe(4)
-        expect(list2.getLast()).toBe('linked lists are cool')
+        expect(list2.getLast().data).toBe('linked lists are cool')
         })
        
     test('that values can be inserted into any index  of the list', () => {
@@ -43,8 +43,8 @@ const { Node, List } = require('./robert.index')
         list3.insertLast('linked lists are cool')
         list3.insertAt('5', 1)
         expect(list3.head.data).toBe(4)
-        expect(list3.getAt(1)).toBe('5')
-        expect(list3.getLast()).toBe('linked lists are cool')
+        expect(list3.getAt(1).data).toBe('5')
+        expect(list3.getLast().data).toBe('linked lists are cool')
         })
     })
 
@@ -57,21 +57,20 @@ const { Node, List } = require('./robert.index')
         list4.insertFirst(2)
         list4.insertFirst(1)
        test('that values can be removed from the start of the list', () => {
-       const value = list4.removeFirst()
-       expect(value).toEqual(1)
-       expect(list4.getFirst()).toBe(2)
+       list4.removeFirst()
+       expect(list4.getFirst().data).toBe(2)
        expect(list4.size()).toBe(5)
        })
        test('that values can be removed from the end of the list', () => {
-        const value = list4.removeLast()
-        expect(value).toEqual(6)
-        expect(list4.getFirst()).toBe(2)
+        expect(list4.getLast().data).toBe(6)
+        list4.removeLast()
+        expect(list4.getLast().data).toBe(5)
         expect(list4.size()).toBe(4)
        })
        test('that values can be removed from any index the list', () => {
-        const value = list4.removeAt(2)
-        expect(value).toEqual(4)
-        expect(list4.getFirst()).toBe(2)
+        expect(list4.getAt(2).data).toBe(4)
+        list4.removeAt(2)
+        expect(list4.getAt(2).data).toBe(5)
         expect(list4.size()).toBe(3)
        })
     })
@@ -86,15 +85,15 @@ const { Node, List } = require('./robert.index')
     describe('The different get methods', () =>{  
         
       test('that values can be gotten from the start of the list', () => {
-        const value = list5.getFirst()
+        const value = list5.getFirst().data
         expect(value).toBe('bigint')
       })
       test('that values can be gotten from the end of the list', () => {
-        const value = list5.getLast()
+        const value = list5.getLast().data
         expect(value).toBe('blob')
       })
       test('that values can be gotten from any index in the list', () => {
-        const value = list5.getAt(3)
+        const value = list5.getAt(3).data
         expect(value).toBe('string')
       })
     })
