@@ -20,3 +20,5 @@ function maxChar(str) {
 }
 
 module.exports = maxChar
+
+//Source of the above solutions : The Coding Interview Bootcamp: Algorithms + Data Structures by Stephen Grider at Udemy
