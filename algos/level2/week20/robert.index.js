@@ -1,4 +1,4 @@
-
+//DETERMINE IF A LINKED LIST IS A CYCLE OR NOT, SOLUTION WITH FLOYD'S CYCLE
 const circular = (list) =>{
     if(!list.head){
         return false
