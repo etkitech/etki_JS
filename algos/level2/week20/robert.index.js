@@ -1,31 +1,20 @@
-const { List, Node } = require('../week18/robert.index')
-
-//this funtion takes a normal linked list and makes it circular by pointing the last node to the first one
-const makeCircle = (list) =>{
- let last = list.getLast()
-last.next = list.head
-}
-  
 
 const circular = (list) =>{
-    if(list.head === null){
-        return true
-    }
-    if(list.head.next === null){
+    if(!list.head){
         return false
     }
-    let currentNode = list.head.next
-    while (currentNode !== list.head && currentNode.next !== null){
-       currentNode = currentNode.next
+    let slowPointer = list.head
+    let fastPointer = list.head
+    while(fastPointer.next && fastPointer.next.next){
+        slowPointer = slowPointer.next
+        fastPointer = fastPointer.next.next
+        if(slowPointer === fastPointer){
+            return true
+        }
     }
-    if(currentNode.next === null){
         return false
-    }
-    if(currentNode === list.head){
-        return true
-    }
    }
 
    module.exports = {
-    makeCircle, circular
-  }
+    circular
+   }
